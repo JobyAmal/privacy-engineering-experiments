@@ -1,0 +1,3 @@
+ID: 101 | Name: Alice Smith | Email: alice.smith@example.com | SSN: 666-45-1234
+ID: 102 | Name: Bob Jones | Email: bob-jones_12@sub.domain.org | SSN: 000123456
+ID: 103 | Name: Charlie Brown | Email: charlie.at.work.net | SSN: 123-45-6789
